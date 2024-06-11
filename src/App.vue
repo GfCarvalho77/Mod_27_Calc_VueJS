@@ -55,7 +55,7 @@ export default {
 
 <template>
   <div id="app">
-    <h1>Calculadora VuJS</h1>
+    <h1>Calculadora VueJS</h1>
     <campoDeInsercao 
       :num1="num1" 
       :num2="num2" 
